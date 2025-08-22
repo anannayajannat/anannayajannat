@@ -34,7 +34,6 @@ Skilled in Python, Java, and JavaScript, with a strong foundation in backend dev
 ### 📫 How to reach me:
 - 📧 anannaya.jannat@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/anannaya2/) 
-- 🌐 [Portfolio]([https://your-portfolio-link.com](https://anannayajannat.github.io/Personal-CV/)) 
 
 ### 😄 Pronouns:
 She/Her
